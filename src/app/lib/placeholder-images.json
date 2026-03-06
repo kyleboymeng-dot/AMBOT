@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "school-campus",
+      "description": "Modern school building campus",
+      "imageUrl": "https://picsum.photos/seed/school1/1200/800",
+      "imageHint": "modern school"
+    },
+    {
+      "id": "student-studying",
+      "description": "Student studying in a library",
+      "imageUrl": "https://picsum.photos/seed/student2/800/600",
+      "imageHint": "student studying"
+    },
+    {
+      "id": "classroom",
+      "description": "Modern classroom with digital screen",
+      "imageUrl": "https://picsum.photos/seed/class3/800/600",
+      "imageHint": "classroom technology"
+    },
+    {
+      "id": "school-logo",
+      "description": "Puerto National High School Logo Seal",
+      "imageUrl": "https://picsum.photos/seed/pn-logo/200/200",
+      "imageHint": "school seal"
+    }
+  ]
+}
